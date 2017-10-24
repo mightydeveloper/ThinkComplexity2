@@ -2,7 +2,7 @@
 [Broken scaling in the forest-fire model](https://journals.aps.org/pre/pdf/10.1103/PhysRevE.65.056707)
 *Pruessner, G. and Jensen, H. J. (2002), "Broken scaling in the forest-fire model." Phys. Rev. E 65, 056707*
 
-Through Jupyter notebook Homework, I learned about the forest-fire model. 
+Through Jupyter notebook homework, I learned about the forest-fire model. 
 In addition, we investigated the fractal dimension of the forest-fire model 
 and discovered that it has self-organized criticality behavior. 
 However, in this article, the authors argue that if the model is truly critical. 
