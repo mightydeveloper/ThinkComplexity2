@@ -1,5 +1,6 @@
 # Bibliography 1
 [Broken scaling in the forest-fire model](https://journals.aps.org/pre/pdf/10.1103/PhysRevE.65.056707)
+
 *Pruessner, G. and Jensen, H. J. (2002), "Broken scaling in the forest-fire model." Phys. Rev. E 65, 056707*
 
 Through Jupyter notebook homework, I learned about the forest-fire model. 
