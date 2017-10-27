@@ -1,4 +1,4 @@
-# Bibliography 1
+# Bibliography 2
 [Dynamic Models of Segregation in Small-World Networks](https://link.springer.com/content/pdf/10.1007%2F978-3-540-68409-1.pdf)
 
 *Giorgio Fagiolo, Marco Valente, Nicolaas J. Vriend*
